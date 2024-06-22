@@ -214,6 +214,7 @@ section{
 }
 
 .home .content{
+    padding-top: 80px;
     max-width: 60rem;
 }
 
@@ -225,7 +226,7 @@ section{
 
 .home .content p{
     font-size: 2rem;
-    font-weight: lighter;
+    font-weight: 400;
     line-height: 1.8;
     padding: 2rem 0;
     color: #eee;
