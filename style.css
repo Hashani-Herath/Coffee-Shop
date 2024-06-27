@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 :root{
-    --main-color:#b2752b;
+    --main-color:#a8672b;
     --black:#13131a;
     --bg:#010103;
     --border: .1rem solid rgba(255,255,255,.3);
@@ -232,7 +232,7 @@ section{
     color: #eee;
 }
 
-.about{
+.about {
     min-height: 90vh;
 }
 
@@ -263,6 +263,7 @@ section{
 .about .row .content h3{
     font-size: 3rem;
     color: #fff;
+    padding-bottom: 3rem;
 }
 
 .about .row .content p{
